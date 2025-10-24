@@ -1,5 +1,5 @@
 # Add Your Name Here
-
+Godfrey Geoffrey
 Want to join the Git Gang? Just fill out the form below.
 
 **Note:** Name can be your real name or any alias/handle you prefer.
@@ -8,6 +8,6 @@ Want to join the Git Gang? Just fill out the form below.
 
 ## Add your entry below this line
 
-- Name: 
-- Username: 
+- Name: Godfrey
+- Username: @geoffreygodfrey
 - Message: 
